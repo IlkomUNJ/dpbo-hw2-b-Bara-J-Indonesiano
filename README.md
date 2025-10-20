@@ -24,7 +24,6 @@ Access to bank menu
 -View & manage inventory (add/update/remove items)
 -Save inventory 
 4. Bank System Integration
--Linked with bank_customer.h and bankMenu().
 -Buyers and Sellers both have bank accounts.
 -Purchases trigger: Buyer’s balance decreases, Seller’s balance increases
 -Prevents transactions if: Buyer has insufficient balance
